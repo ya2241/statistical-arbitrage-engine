@@ -1,8 +1,7 @@
 # ⟁ StatArb Engine
 ### Statistical Arbitrage · Pairs Trading · Python + DuckDB
 
-A production-quality statistical arbitrage system built with the same
-rigour expected at Jane Street, Citadel Securities, Optiver, or IMC.
+A production-quality statistical arbitrage system.
 
 ---
 
